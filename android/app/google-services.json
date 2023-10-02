@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026109213891",
+    "project_id": "todo-clean-1234567",
+    "storage_bucket": "todo-clean-1234567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026109213891:android:8f2069808b2787e62be676",
+        "android_client_info": {
+          "package_name": "com.example.clean_getx_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJc2Xa_14aV6eUCMIIcChOmujX4Epkg-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
